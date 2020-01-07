@@ -8,8 +8,7 @@ mvn package && java -jar target/Account-1.0-SNAPSHOT.jar
 Get all users:
 _GET http://localhost:8080/users_
 
-Transfer 
-
+Transfer: 
 _POST http://localhost:8080/transfer_
 
 JSON Body
